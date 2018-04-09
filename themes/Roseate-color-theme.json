@@ -62,7 +62,7 @@
         "editorBracketMatch.border": "#746f77",
         "editorOverviewRuler.border": "#4F4355",
         "editorError.foreground": "#ff4e47",
-        "editorWarning.foreground": "#3bb3eb", //#25cc79
+        "editorWarning.foreground": "#1df5bf", //#25cc79, 3bb3eb
         "editorGutter.modifiedBackground": "#943bc7bb",
         "editorGutter.addedBackground": "#45C758BB",
         "editorGutter.deletedBackground": "#FC644DBB",
