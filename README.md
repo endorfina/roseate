@@ -7,9 +7,13 @@ Aimed to make my C++ code prettier; or, really, just so it goes well with all th
 
 ---
 
-Licensed under WTFPL  
+### Licensed under WTFPL  
 
 > Copyleft (&#8580;) 2018 Emilia "Endorfina" Majewska  
 > All wrongs reserved. Have fun with it.
+
+---
+
+### Stylized
 
 ![My set up](lovepink.jpg)

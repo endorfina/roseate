@@ -2,7 +2,7 @@
     "name": "roseate",
     "displayName": "Roseate",
     "description": "A dark theme which utilizes shades of pink and a tiny bit of spring green.",
-    "version": "0.1.8",
+    "version": "0.1.9",
     "publisher": "endorfina",
     "icon": "roseate.png",
     "engines": {
