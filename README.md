@@ -16,4 +16,4 @@ Aimed to make my C++ code prettier; or, really, just so it goes well with all th
 
 ### Stylized
 
-![My set up](lovepink.jpg)
+![My set up](lovepink2.jpg)
