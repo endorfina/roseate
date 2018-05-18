@@ -125,7 +125,10 @@
 		},
 		{
 			"name": "Keyword",
-			"scope": "keyword",
+			"scope": [
+				"keyword",
+				"keyword.cmake"
+			],
 			"settings": {
 				"foreground": "#d4509d"
 			}
@@ -133,7 +136,8 @@
 		{
 			"name": "Storage",
 			"scope": [
-				"storage.type"
+				"storage.type",
+				"storage.source.cmake"
 			],
 			"settings": {
 				"foreground": "#e276b5"
@@ -177,7 +181,8 @@
 				"meta.function-call",
 				"variable.function",
 				"support.function",
-				"keyword.other.special-method"
+				"keyword.other.special-method",
+				"variable.source.cmake"
 			],
 			"settings": {
 				"foreground": "#7cc9b2"
