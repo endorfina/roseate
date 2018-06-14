@@ -40,7 +40,7 @@
 
 		"sideBar.background": "#302d36",
 		"tab.inactiveBackground": "#302d36", //#422d3d
-        "editorWhitespace.foreground": "#302d36",
+        "editorWhitespace.foreground": "#8f404d",
         "editorIndentGuide.background": "#302d36",
 		"editorGroupHeader.tabsBackground": "#302d36",
 
@@ -160,7 +160,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#cf49a2"
+				"foreground": "#d348a5"
 			}
 		},
 		{
